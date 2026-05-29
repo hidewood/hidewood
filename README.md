@@ -1,16 +1,25 @@
-## Hi there 👋
+── hidewood ──
 
-<!--
-**hidewood/hidewood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Computer Science Student & Developer
+Focused on High-Performance Computing, Parallel Systems, and Intelligence Development.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📂 About Me
+
+🎓 Education: Pursuing a Bachelor's degree in Computer Science.
+
+💻 Tech Interests: Parallel computing & GPU programming (CUDA), algorithm optimization, and agentic AI development workflows.
+
+🛠️ Environment: Linux / WSL, Git, Docker.
+
+🎸 Beyond Code: Driven by Jazz & Rock melodies, structured strength training, and continuous learning.
+
+🛠️ Tech Stack & Tooling
+
+Languages     ::  C  /  C++  /  Python  /  SQL
+Parallelism   ::  CUDA  /  OpenMP  /  MPI
+Platforms     ::  Linux (WSL)  /  Git  /  Docker
+AI Agents     ::  Cursor  /  Windsurf  /  OpenClaw
+
+
+📊 Github Metrics
