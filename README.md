@@ -62,15 +62,12 @@ I am gradually organizing notes on:
 
 ---
 
-## GitHub Stats
+## Currently Working On
 
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=hidewood&show_icons=true&hide_title=true&hide_border=true&theme=transparent" />
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hidewood&layout=compact&hide_border=true&theme=transparent" />
-
-</div>
+- Building small backend projects
+- Learning machine learning fundamentals
+- Improving programming and system design skills
+- Writing clearer technical notes
 
 ---
 
