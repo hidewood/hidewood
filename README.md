@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="assets/profile-banner.jpg" alt="Blue sketch-style profile banner" width="100%" />
-
 # hidewood
 
 **CS Undergraduate · Backend & Systems Builder · AI Agent Learner**
